@@ -22,6 +22,8 @@ if ($LASTEXITCODE -ne 0) { throw '歌词完整性、移动范围与镜头边缘�
 if (-not $NoVideo) {
     python -u tools/render.py --encoder $Encoder
     if ($LASTEXITCODE -ne 0) { throw '压制失败。' }
+    python tools/verify_video.py
+    if ($LASTEXITCODE -ne 0) { throw '完整视频解码检查失败。' }
 }
 python tools/package.py
 if ($LASTEXITCODE -ne 0) { throw '打包失败。' }

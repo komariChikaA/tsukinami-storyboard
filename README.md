@@ -14,7 +14,7 @@
 
 ## 构建
 
-需要 Windows、Python 3.12、FFmpeg、.NET 8 SDK、本机 Storybrew 1.96 和微软雅黑以外的日文字体 `Meiryo`。
+需要 Windows、Python 3.12、FFmpeg、.NET 8 SDK、本机 Storybrew 1.96 和 Windows 自带的日文字体 `Meiryo`。
 
 ```powershell
 python -m pip install -r requirements.txt
