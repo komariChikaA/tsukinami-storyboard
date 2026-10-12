@@ -7,6 +7,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Tsukinami.cs" />
+    <Compile Include="scriptslibrary/**/*.cs" />
     <Reference Include="StorybrewCommon"><HintPath>$(StorybrewDir)/StorybrewCommon.dll</HintPath></Reference>
     <Reference Include="OpenTK"><HintPath>$(StorybrewDir)/OpenTK.dll</HintPath></Reference>
   </ItemGroup>
