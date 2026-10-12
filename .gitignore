@@ -1,0 +1,8 @@
+work/
+output/
+bin/
+obj/
+__pycache__/
+*.pyc
+.sbrew/user.yaml
+assets/sb/
