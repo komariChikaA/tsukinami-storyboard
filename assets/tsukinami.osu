@@ -21,14 +21,14 @@ TitleUnicode:ツキナミ
 Artist:Kanon Wakeshima
 ArtistUnicode:分島花音
 Creator:komariChikaA
-Version:Storyboard
+Version:Storyboard Preview
 Source:
 Tags:storybrew storyboard
 BeatmapID:0
 BeatmapSetID:-1
 
 [Difficulty]
-HPDrainRate:5
+HPDrainRate:0
 CircleSize:5
 OverallDifficulty:5
 ApproachRate:5
@@ -37,8 +37,11 @@ SliderTickRate:1
 
 [Events]
 0,0,"bg.png",0,0
+2,5000,276400
 
 [TimingPoints]
 0,500,4,1,0,100,1,0
 
 [HitObjects]
+256,192,3000,1,0,0:0:0:0:
+256,192,278900,1,0,0:0:0:0:
