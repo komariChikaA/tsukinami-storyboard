@@ -2,7 +2,7 @@
 
 副标题：分島花音。
 
-本机 Storybrew 1.96 工程：随音乐的震动、模糊、缩放与旋转，配合人物、天空音符和右侧沙发的局部取景；52 行日文歌词交替出现在四角并移动。
+Storybrew 1.96 工程：随音乐的震动、模糊、缩放与旋转，配合人物、天空音符和右侧沙发的局部取景；52 行日文歌词交替出现在四角并移动。
 
 ## 使用
 
@@ -10,7 +10,7 @@
 
 `assets` 同时是完整素材目录；本作品实际使用的纹理均已包含，打开工程无需额外生成纹理。
 
-在 osu! 中观看：下载 Release 的 `tsukinami-storyboard-v2.osz` 并导入，选择 `Storyboard Preview`，开启 Auto，启用 storyboard 并将背景暗化设为 0%。预览谱面只有首尾两个物件，中间为休息段，方便观看完整作品。
+在 osu! 中观看：下载 Release 的 `tsukinami-storyboard-v2.osz` 并导入，选择 `Storyboard Preview`，开启 Auto，启用 storyboard 并将背景暗化设为 0%。预览谱面只有首尾两个物件，中间为休息段.
 
 ## 工程内容
 
@@ -22,6 +22,6 @@
 
 调整镜头可修改 CameraRig 的 Shots、ShakeStrength、BlurStrength；歌词的时间和位置位于 `assets/sb/lyrics.tsv`。
 
-[压制视频与 OSB 成品下载](https://github.com/komariChikaA/tsukinami-storyboard/releases/tag/v1.0.0-rc.2)。歌曲和 BG 由用户提供，本仓库不授予这些素材的再分发许可。视频与 storyboard 已由用户明确要求标注验收，验收记录保存在 Release；osu! 导入观看由用户自行检查。
+[压制视频与 OSB 成品下载](https://github.com/komariChikaA/tsukinami-storyboard/releases/tag/v1.0.0-rc.2)。
 
 工程结构参考 [Milkitic/storybrew.Benibotan](https://github.com/Milkitic/storybrew.Benibotan) 与 [munehime/osu-storyboards](https://github.com/munehime/osu-storyboards)；歌词空间变化参考前者的 WordPanel / WordPanel2。没有复制第三方场景代码或贴图。
