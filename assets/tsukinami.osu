@@ -1,0 +1,44 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 86660
+Countdown: 0
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Tsukinami
+TitleUnicode:ツキナミ
+Artist:User-provided audio
+ArtistUnicode:User-provided audio
+Creator:komariChikaA
+Version:Storyboard
+Source:
+Tags:storybrew storyboard
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+0,0,"bg.png",0,0
+
+[TimingPoints]
+0,500,4,1,0,100,1,0
+
+[HitObjects]

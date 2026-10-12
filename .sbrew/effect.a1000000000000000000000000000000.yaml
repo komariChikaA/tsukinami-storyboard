@@ -1,0 +1,36 @@
+FormatVersion: 7
+Name: "ツキナミ"
+Script: "Tsukinami"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  a1000000000000000000000000000001:
+    Name: "01 Background"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a1000000000000000000000000000002:
+    Name: "02 Blur"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a1000000000000000000000000000003:
+    Name: "03 Light"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a1000000000000000000000000000004:
+    Name: "04 Shade"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a1000000000000000000000000000005:
+    Name: "05 Lyrics"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

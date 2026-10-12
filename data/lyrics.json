@@ -1,0 +1,948 @@
+[
+  {
+    "start": 23.54,
+    "end": 26.4,
+    "text": "聴こえるかい？ この音",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-000.png",
+    "width": 662,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "聴こえるかい？ この音"
+    ],
+    "layout": "upper-left",
+    "x": 93.11109640000001,
+    "y": 77.3333308,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 26.44,
+    "end": 29.02,
+    "text": "デタラメに動いてる",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-001.png",
+    "width": 584,
+    "height": 117,
+    "scale": 0.4444444,
+    "display_lines": [
+      "デタラメに動いてる"
+    ],
+    "layout": "lower-right",
+    "x": 564.2222352,
+    "y": 396.0000026,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 29.06,
+    "end": 31.8,
+    "text": "ボンプする心臓と",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-002.png",
+    "width": 526,
+    "height": 117,
+    "scale": 0.4444444,
+    "display_lines": [
+      "ボンプする心臓と"
+    ],
+    "layout": "upper-right",
+    "x": 577.1111228,
+    "y": 77.9999974,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 31.84,
+    "end": 34.36,
+    "text": "パンクしちゃいそうな脳",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-003.png",
+    "width": 700,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "パンクしちゃいそうな脳"
+    ],
+    "layout": "lower-left",
+    "x": 101.55554000000001,
+    "y": 396.6666692,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 34.42,
+    "end": 37.68,
+    "text": "聴こえるかい？ このNOTE",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-004.png",
+    "width": 764,
+    "height": 113,
+    "scale": 0.4444444,
+    "display_lines": [
+      "聴こえるかい？ このNOTE"
+    ],
+    "layout": "upper-left",
+    "x": 115.77776080000001,
+    "y": 77.1111086,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 37.72,
+    "end": 40.04,
+    "text": "消えてしまう刹那を掴む",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-005.png",
+    "width": 700,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "消えてしまう刹那を掴む"
+    ],
+    "layout": "lower-right",
+    "x": 538.4444599999999,
+    "y": 396.444447,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 40.1,
+    "end": 43.25,
+    "text": "生まれてはすぐに死んでいく",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-006.png",
+    "width": 816,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "生まれてはすぐに死んでいく"
+    ],
+    "layout": "upper-right",
+    "x": 512.6666848,
+    "y": 77.3333308,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 43.92,
+    "end": 45.55,
+    "text": "一瞬",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-007.png",
+    "width": 178,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "一瞬"
+    ],
+    "layout": "lower-left",
+    "x": -14.444448399999999,
+    "y": 396.6666692,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 65.88,
+    "end": 70.56,
+    "text": "左手は万年大忙しだよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-008.png",
+    "width": 642,
+    "height": 116,
+    "scale": 0.4444444,
+    "display_lines": [
+      "左手は万年大忙しだよ"
+    ],
+    "layout": "upper-left",
+    "x": 88.6666524,
+    "y": 77.77777520000001,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 70.6,
+    "end": 76.38,
+    "text": "右手だってちゃんと働いているよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-009.png",
+    "width": 584,
+    "height": 196,
+    "scale": 0.4444444,
+    "display_lines": [
+      "右手だってちゃんと",
+      "働いているよ"
+    ],
+    "layout": "lower-right",
+    "x": 564.2222352,
+    "y": 378.4444488,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 76.44,
+    "end": 78.12,
+    "text": "指示を送れよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-010.png",
+    "width": 410,
+    "height": 113,
+    "scale": 0.4444444,
+    "display_lines": [
+      "指示を送れよ"
+    ],
+    "layout": "upper-right",
+    "x": 602.888898,
+    "y": 77.1111086,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 78.18,
+    "end": 84.68,
+    "text": "なりたいものの前で恥じてる様じゃ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-011.png",
+    "width": 584,
+    "height": 195,
+    "scale": 0.4444444,
+    "display_lines": [
+      "なりたいものの前で",
+      "恥じてる様じゃ"
+    ],
+    "layout": "lower-left",
+    "x": 75.7777648,
+    "y": 378.666671,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 84.74,
+    "end": 86.6,
+    "text": "ダメだ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-012.png",
+    "width": 236,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "ダメだ"
+    ],
+    "layout": "upper-left",
+    "x": -1.555560799999995,
+    "y": 77.555553,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 86.66,
+    "end": 91.46,
+    "text": "有限の中走っている",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-013.png",
+    "width": 584,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "有限の中走っている"
+    ],
+    "layout": "lower-right",
+    "x": 564.2222352,
+    "y": 396.444447,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 91.52,
+    "end": 96.08,
+    "text": "謳歌する暇もなく精一杯に",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-014.png",
+    "width": 758,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "謳歌する暇もなく精一杯に"
+    ],
+    "layout": "upper-right",
+    "x": 525.5555724,
+    "y": 77.3333308,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 96.18,
+    "end": 97.54,
+    "text": "命令だ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-015.png",
+    "width": 236,
+    "height": 116,
+    "scale": 0.4444444,
+    "display_lines": [
+      "命令だ"
+    ],
+    "layout": "lower-left",
+    "x": -1.555560799999995,
+    "y": 396.2222248,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 97.6,
+    "end": 99.84,
+    "text": "海馬よどうか留めておくれ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-016.png",
+    "width": 758,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "海馬よどうか留めておくれ"
+    ],
+    "layout": "upper-left",
+    "x": 114.44442760000001,
+    "y": 77.3333308,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 99.9,
+    "end": 103.06,
+    "text": "日々の忘却曲線のストッパーは",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-017.png",
+    "width": 526,
+    "height": 194,
+    "scale": 0.4444444,
+    "display_lines": [
+      "日々の忘却曲線の",
+      "ストッパーは"
+    ],
+    "layout": "lower-right",
+    "x": 577.1111228,
+    "y": 378.8888932,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 103.12,
+    "end": 108.0,
+    "text": "どこにも売ってないよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-018.png",
+    "width": 642,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "どこにも売ってないよ"
+    ],
+    "layout": "upper-right",
+    "x": 551.3333476,
+    "y": 77.3333308,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 108.7,
+    "end": 112.4,
+    "text": "今あるものの全て",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-019.png",
+    "width": 526,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "今あるものの全て"
+    ],
+    "layout": "lower-left",
+    "x": 62.88887720000001,
+    "y": 396.6666692,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 112.46,
+    "end": 114.02,
+    "text": "贅沢だ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-020.png",
+    "width": 236,
+    "height": 116,
+    "scale": 0.4444444,
+    "display_lines": [
+      "贅沢だ"
+    ],
+    "layout": "upper-left",
+    "x": -1.555560799999995,
+    "y": 77.77777520000001,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 114.08,
+    "end": 117.62,
+    "text": "心に映す事が許されている間に",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-021.png",
+    "width": 526,
+    "height": 195,
+    "scale": 0.4444444,
+    "display_lines": [
+      "心に映す事が",
+      "許されている間に"
+    ],
+    "layout": "lower-right",
+    "x": 577.1111228,
+    "y": 378.666671,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 117.68,
+    "end": 125.24,
+    "text": "いつかあなたがこの破片を拾って胸に飾る様な",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-022.png",
+    "width": 932,
+    "height": 195,
+    "scale": 0.4444444,
+    "display_lines": [
+      "いつかあなたがこの破片を拾って",
+      "胸に飾る様な"
+    ],
+    "layout": "upper-right",
+    "x": 486.88890960000003,
+    "y": 95.33332899999999,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 125.3,
+    "end": 130.2,
+    "text": "歓びが欲しいんだ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-023.png",
+    "width": 526,
+    "height": 116,
+    "scale": 0.4444444,
+    "display_lines": [
+      "歓びが欲しいんだ"
+    ],
+    "layout": "lower-left",
+    "x": 62.88887720000001,
+    "y": 396.2222248,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 150.44,
+    "end": 155.62,
+    "text": "思い出は網膜のシャッター音の数",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-024.png",
+    "width": 526,
+    "height": 194,
+    "scale": 0.4444444,
+    "display_lines": [
+      "思い出は網膜の",
+      "シャッター音の数"
+    ],
+    "layout": "upper-left",
+    "x": 62.88887720000001,
+    "y": 95.1111068,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 155.68,
+    "end": 160.8,
+    "text": "肺と血管は懐かしさを含む",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-025.png",
+    "width": 758,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "肺と血管は懐かしさを含む"
+    ],
+    "layout": "lower-right",
+    "x": 525.5555724,
+    "y": 396.444447,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 160.86,
+    "end": 162.84,
+    "text": "熱をくれよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-026.png",
+    "width": 352,
+    "height": 112,
+    "scale": 0.4444444,
+    "display_lines": [
+      "熱をくれよ"
+    ],
+    "layout": "upper-right",
+    "x": 615.7777856,
+    "y": 76.8888864,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 162.9,
+    "end": 168.92,
+    "text": "なれないものの後ろで焦がれるのは",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-027.png",
+    "width": 642,
+    "height": 194,
+    "scale": 0.4444444,
+    "display_lines": [
+      "なれないものの後ろで",
+      "焦がれるのは"
+    ],
+    "layout": "lower-left",
+    "x": 88.6666524,
+    "y": 378.8888932,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 168.98,
+    "end": 171.1,
+    "text": "やめだ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-028.png",
+    "width": 236,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "やめだ"
+    ],
+    "layout": "upper-left",
+    "x": -1.555560799999995,
+    "y": 77.3333308,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 171.46,
+    "end": 175.72,
+    "text": "永遠じゃないのは知っている",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-029.png",
+    "width": 816,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "永遠じゃないのは知っている"
+    ],
+    "layout": "lower-right",
+    "x": 512.6666848,
+    "y": 396.6666692,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 175.78,
+    "end": 180.5,
+    "text": "刻まれた残り離れられないよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-030.png",
+    "width": 816,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "刻まれた残り離れられないよ"
+    ],
+    "layout": "upper-right",
+    "x": 512.6666848,
+    "y": 77.3333308,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 180.62,
+    "end": 182.2,
+    "text": "運命だ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-031.png",
+    "width": 236,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "運命だ"
+    ],
+    "layout": "lower-left",
+    "x": -1.555560799999995,
+    "y": 396.444447,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 182.26,
+    "end": 184.22,
+    "text": "青と赤どちらかを切ったって",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-032.png",
+    "width": 816,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "青と赤どちらかを切ったって"
+    ],
+    "layout": "upper-left",
+    "x": 127.33331520000002,
+    "y": 77.3333308,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 184.28,
+    "end": 187.58,
+    "text": "手違いのエラー起こしたがっている",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-033.png",
+    "width": 584,
+    "height": 194,
+    "scale": 0.4444444,
+    "display_lines": [
+      "手違いのエラー",
+      "起こしたがっている"
+    ],
+    "layout": "lower-right",
+    "x": 564.2222352,
+    "y": 378.8888932,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 187.64,
+    "end": 192.74,
+    "text": "時間は買えないよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-034.png",
+    "width": 526,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "時間は買えないよ"
+    ],
+    "layout": "upper-right",
+    "x": 577.1111228,
+    "y": 77.3333308,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 192.84,
+    "end": 196.78,
+    "text": "今巡ってる季節",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-035.png",
+    "width": 468,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "今巡ってる季節"
+    ],
+    "layout": "lower-left",
+    "x": 49.999989600000006,
+    "y": 396.444447,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 196.84,
+    "end": 197.88,
+    "text": "泣きそうだ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-036.png",
+    "width": 352,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "泣きそうだ"
+    ],
+    "layout": "upper-left",
+    "x": 24.2222144,
+    "y": 77.555553,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 197.94,
+    "end": 201.92,
+    "text": "尊さは一つだけしかない事みたい",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-037.png",
+    "width": 584,
+    "height": 196,
+    "scale": 0.4444444,
+    "display_lines": [
+      "尊さは一つだけしか",
+      "ない事みたい"
+    ],
+    "layout": "lower-right",
+    "x": 564.2222352,
+    "y": 378.4444488,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 201.98,
+    "end": 209.3,
+    "text": "きっとあなたが微笑んだり涙を流す様な",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-038.png",
+    "width": 758,
+    "height": 196,
+    "scale": 0.4444444,
+    "display_lines": [
+      "きっとあなたが微笑んだり",
+      "涙を流す様な"
+    ],
+    "layout": "upper-right",
+    "x": 525.5555724,
+    "y": 95.5555512,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 209.36,
+    "end": 213.74,
+    "text": "月並みな幸せ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-039.png",
+    "width": 410,
+    "height": 113,
+    "scale": 0.4444444,
+    "display_lines": [
+      "月並みな幸せ"
+    ],
+    "layout": "lower-left",
+    "x": 37.111102,
+    "y": 396.8888914,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 213.8,
+    "end": 218.18,
+    "text": "有限の中走っている",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-040.png",
+    "width": 584,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "有限の中走っている"
+    ],
+    "layout": "upper-left",
+    "x": 75.7777648,
+    "y": 77.555553,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 218.24,
+    "end": 222.78,
+    "text": "謳歌する暇もなく精一杯に",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-041.png",
+    "width": 758,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "謳歌する暇もなく精一杯に"
+    ],
+    "layout": "lower-right",
+    "x": 525.5555724,
+    "y": 396.6666692,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 222.84,
+    "end": 228.38,
+    "text": "永遠じゃないのは知っている",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-042.png",
+    "width": 816,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "永遠じゃないのは知っている"
+    ],
+    "layout": "upper-right",
+    "x": 512.6666848,
+    "y": 77.3333308,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 228.44,
+    "end": 234.3,
+    "text": "刻まれた残り離れられないよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-043.png",
+    "width": 816,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "刻まれた残り離れられないよ"
+    ],
+    "layout": "lower-left",
+    "x": 127.33331520000002,
+    "y": 396.6666692,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 234.68,
+    "end": 238.4,
+    "text": "今が欲しいなんて",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-044.png",
+    "width": 526,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "今が欲しいなんて"
+    ],
+    "layout": "upper-left",
+    "x": 62.88887720000001,
+    "y": 77.555553,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 238.64,
+    "end": 240.85,
+    "text": "叶いもしないなんて",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-045.png",
+    "width": 584,
+    "height": 113,
+    "scale": 0.4444444,
+    "display_lines": [
+      "叶いもしないなんて"
+    ],
+    "layout": "lower-right",
+    "x": 564.2222352,
+    "y": 396.8888914,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 240.92,
+    "end": 244.45,
+    "text": "だから愛しくなるのかな",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-046.png",
+    "width": 700,
+    "height": 116,
+    "scale": 0.4444444,
+    "display_lines": [
+      "だから愛しくなるのかな"
+    ],
+    "layout": "upper-right",
+    "x": 538.4444599999999,
+    "y": 77.77777520000001,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 244.72,
+    "end": 247.02,
+    "text": "失って忘れない様に",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-047.png",
+    "width": 584,
+    "height": 114,
+    "scale": 0.4444444,
+    "display_lines": [
+      "失って忘れない様に"
+    ],
+    "layout": "lower-left",
+    "x": 75.7777648,
+    "y": 396.6666692,
+    "drift_x": 10,
+    "drift_y": -5
+  },
+  {
+    "start": 247.08,
+    "end": 249.65,
+    "text": "こうして歌っているんだよ",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-048.png",
+    "width": 758,
+    "height": 116,
+    "scale": 0.4444444,
+    "display_lines": [
+      "こうして歌っているんだよ"
+    ],
+    "layout": "upper-left",
+    "x": 114.44442760000001,
+    "y": 77.77777520000001,
+    "drift_x": 10,
+    "drift_y": 5
+  },
+  {
+    "start": 249.7,
+    "end": 254.25,
+    "text": "鼓動、脈を鳴らす",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-049.png",
+    "width": 526,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "鼓動、脈を鳴らす"
+    ],
+    "layout": "lower-right",
+    "x": 577.1111228,
+    "y": 396.444447,
+    "drift_x": -10,
+    "drift_y": -5
+  },
+  {
+    "start": 254.5,
+    "end": 259.65,
+    "text": "心臓と脳が",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-050.png",
+    "width": 352,
+    "height": 115,
+    "scale": 0.4444444,
+    "display_lines": [
+      "心臓と脳が"
+    ],
+    "layout": "upper-right",
+    "x": 615.7777856,
+    "y": 77.555553,
+    "drift_x": -10,
+    "drift_y": 5
+  },
+  {
+    "start": 259.8,
+    "end": 263.1,
+    "text": "尽きるまで",
+    "source": "provided Japanese lyrics; local ASR-assisted editorial timing",
+    "path": "sb/lyric-051.png",
+    "width": 352,
+    "height": 112,
+    "scale": 0.4444444,
+    "display_lines": [
+      "尽きるまで"
+    ],
+    "layout": "lower-left",
+    "x": 24.2222144,
+    "y": 397.1111136,
+    "drift_x": 10,
+    "drift_y": -5
+  }
+]

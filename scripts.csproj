@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <AssemblyName>storyboard</AssemblyName>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <StorybrewDir Condition="'$(StorybrewDir)' == ''">D:\software\storybrew.1.96</StorybrewDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Tsukinami.cs" />
+    <Reference Include="StorybrewCommon"><HintPath>$(StorybrewDir)/StorybrewCommon.dll</HintPath></Reference>
+    <Reference Include="OpenTK"><HintPath>$(StorybrewDir)/OpenTK.dll</HintPath></Reference>
+  </ItemGroup>
+</Project>
